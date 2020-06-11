@@ -13,7 +13,7 @@
 
 ### 项目简介
 `Spring Boot Tutorial`是一个入门级别的教程，主要包含`Spring Boot`的使用，以及如何集成各种第三方组件等内容。比较适合初学`Spring Boot`的同学们。
-* 笔者博客：[代码无止境](https://itweknow.cn)
+* 笔者名称：ABC()
 * 本系列教程PDF：准备中，尽请期待...
 ### 目录
 #### 基础篇
